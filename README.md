@@ -1,2 +1,2 @@
 # odin-recipes
-An Odin Project assignment site with individual recipe pages. Project will demonstrate ability to create a functioning recipe site using HTML headings, links and pages, lists, and images. Will use Git add + commit and push to GitHub to document code changes and track project progress.
+An Odin Project assignment site with individual recipe pages. Project demonstrates my ability to create a functioning recipe site using HTML headings, links and pages, lists, and images. This project helped me practice basic Git workflow.
