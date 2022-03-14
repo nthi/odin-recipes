@@ -19,3 +19,29 @@ a:hover {
 a:active {
     color:blueviolet;
 }
+
+h1{
+    text-align:right;
+    border-style: none none solid none;
+    border-width: thick;
+    border-color: rgb(0, 163, 95);
+}
+
+h3 {
+    text-align:left;
+    border-bottom: thin solid rgb(0, 163, 95);
+}
+
+h4 {
+    text-align:left;
+    border-bottom: thin solid rgb(0, 163, 95);
+}
+
+p {
+    color:rgb(182, 138, 223);
+}
+
+li {
+    color:rgb(182, 138, 223);
+}
+
