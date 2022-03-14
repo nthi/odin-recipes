@@ -9,7 +9,7 @@ a:link {
 }
 
 a:visited {
-    color:rgb(211, 93, 111);
+    color:rgb(0, 163, 95);
 }
 
 a:hover {
@@ -45,3 +45,12 @@ li {
     color:rgb(182, 138, 223);
 }
 
+img {
+
+}
+
+div.image {
+    color:rgb(0, 163, 95);
+    font-style: italic;
+    font-size:smaller;
+}
