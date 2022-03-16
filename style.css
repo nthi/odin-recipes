@@ -54,3 +54,9 @@ div.image {
     font-style: italic;
     font-size:smaller;
 }
+
+div.desc {
+    color:rgb(0, 163, 95);
+    font-weight: bold;
+    font-size:larger;
+}
