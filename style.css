@@ -46,7 +46,7 @@ li {
 }
 
 img {
-
+    border: 1px solid rgb(255, 255, 184);
 }
 
 div.image {
@@ -56,7 +56,16 @@ div.image {
 }
 
 div.desc {
+    padding-top: 2px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    text-align:left;
     color:rgb(0, 163, 95);
     font-weight: bold;
     font-size:larger;
+}
+
+div.gallery {
+    width:fit-content;
+    height:fit-content; 
 }
